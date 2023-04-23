@@ -1,0 +1,4 @@
+Requirement already satisfied: Django in /home/vikas.mehar@BKSDOMAIN.COM/Windows Backup/Django Projects/ESHOP-DJANGO/env/lib/python3.8/site-packages (4.2)
+Requirement already satisfied: asgiref<4,>=3.6.0 in /home/vikas.mehar@BKSDOMAIN.COM/Windows Backup/Django Projects/ESHOP-DJANGO/env/lib/python3.8/site-packages (from Django) (3.6.0)
+Requirement already satisfied: backports.zoneinfo; python_version < "3.9" in /home/vikas.mehar@BKSDOMAIN.COM/Windows Backup/Django Projects/ESHOP-DJANGO/env/lib/python3.8/site-packages (from Django) (0.2.1)
+Requirement already satisfied: sqlparse>=0.3.1 in /home/vikas.mehar@BKSDOMAIN.COM/Windows Backup/Django Projects/ESHOP-DJANGO/env/lib/python3.8/site-packages (from Django) (0.4.3)
